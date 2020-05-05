@@ -34,5 +34,5 @@ Provides a full request/response logger out of the box and allows for easy overr
 
   s.source_files = 'AlamofireEasyLogger/Classes/**/*'
   
-  s.dependency 'Alamofire', '>= 5.0'
+  s.dependency 'Alamofire', '>= 4.5'
 end
